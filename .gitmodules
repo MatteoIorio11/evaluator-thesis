@@ -1,0 +1,3 @@
+[submodule "similarity-checker"]
+	path = similarity-checker
+	url = git@github.com:MatteoIorio11/similarity-checker.git
